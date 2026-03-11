@@ -18,9 +18,9 @@ My goal is to study user interaction to promote more conscious, ethical, and use
 <br>
 
 <div align="center">
-  &ensp;<a href="https://git.elite.polito.it/public-projects/tiktok_agency"><img src="img/card_tiktok_vertical.png" width="300" alt="TikTok Research Panel"></a>&ensp;
-  &ensp;<a href="https://github.com/andredelu98/FitLocker"><img src="img/card_fitlocker_vertical.png" width="300" alt="FitLocker Android App"></a>&ensp;
-  &ensp;<a href="https://github.com/polito-uxd-2023/Musa"><img src="img/card_musa_vertical.png" width="300" alt="MUSA Android App"></a>&ensp;
+  &ensp;<a href="https://git.elite.polito.it/public-projects/tiktok_agency"><img src="img/card_tiktok_vertical.png" width="250" alt="TikTok Research Panel"></a>&ensp;
+  &ensp;<a href="https://github.com/andredelu98/FitLocker"><img src="img/card_fitlocker_vertical.png" width="250" alt="FitLocker Android App"></a>&ensp;
+  &ensp;<a href="https://github.com/polito-uxd-2023/Musa"><img src="img/card_musa_vertical.png" width="250" alt="MUSA Android App"></a>&ensp;
 </div>
 
 ---
