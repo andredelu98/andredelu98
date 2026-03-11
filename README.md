@@ -1,10 +1,19 @@
 # Hi there, I'm Andrea! 👋
 
-I am an **HCI Researcher** currently working within the **e-lite research group at DAUIN** (Department of Control and Computer Engineering) at Politecnico di Torino, Italy. I hold a Master’s degree in **Cinema and Media Engineering**, a background that allows me to combine UX design and front-end development with a unique perspective on media interaction.
+I am an **HCI Researcher** currently working within the [**e-lite research group**](https://e-lite.polito.it/) at DAUIN (Department of Control and Computer Engineering) at Politecnico di Torino, Italy. I hold a Master’s degree in **Cinema and Media Engineering**, a background that allows me to combine UX design and front-end development with a unique perspective on media interaction.
 
 My goal is to study user interaction to promote more conscious, ethical, and user-centered digital environments.
 
 ---
+
+## 🔬 Research Interests
+- **Human-Computer Interaction (HCI) & UX Research**
+- **Digital Wellbeing & Attention Economy**
+- **Deceptive Designs**
+
+---
+
+## 💼 Projects
 
 <table border="0">
   <tr>
@@ -15,7 +24,7 @@ My goal is to study user interaction to promote more conscious, ethical, and use
   
   <tr valign="middle">
     <td>
-      <h3><img src="img/tiktok_icon.png" width="22" style="vertical-align: middle;"> TikTok Panel</h3>
+      <h3><img src="img/tiktok_icon.png" width="22" align="absmiddle"> TikTok Research Panel</h3>
       <b><ins>Chrome Extension</ins></b> for experimental HCI research. Study on how digital design patterns impact user agency through UI modification.
       <br><br>
     </td>
@@ -33,21 +42,21 @@ My goal is to study user interaction to promote more conscious, ethical, and use
   
   <tr valign="middle">
     <td style="border-top: 1px solid #444; padding-top: 12px;">
-      <a href="https://git.elite.polito.it/public-projects/tiktok_agency"><b>Code 💻</b></a> &nbsp;|&nbsp; 
-      <a href="https://webthesis.biblio.polito.it/id/eprint/37761"><b>Thesis 📄</b></a>
+      <a href="https://git.elite.polito.it/public-projects/tiktok_agency"><b>Code Repo 💻</b></a> &nbsp;|&nbsp; 
+      <a href="https://webthesis.biblio.polito.it/id/eprint/37761"><b>Thesis PDF 📄</b></a>
     </td>
     <td style="border-top: 1px solid #444; padding-top: 12px;">
-      <a href="https://github.com/andredelu98/FitLocker"><b>View Project 📦</b></a>
+      <a href="https://github.com/andredelu98/FitLocker"><b>Code Repo 💻</b></a>
     </td>
     <td style="border-top: 1px solid #444; padding-top: 12px;">
-      <a href="https://github.com/polito-uxd-2023/Musa"><b>View Project 🎨</b></a>
+      <a href="https://github.com/polito-uxd-2023/Musa"><b>Code Repo 💻</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Tools
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -71,5 +80,4 @@ My goal is to study user interaction to promote more conscious, ethical, and use
 
 ## 📫 Let's Connect
 - [**LinkedIn**](https://www.linkedin.com/in/andredelu/)
-- [**Polito Research Group (e-lite)**](https://e-lite.polito.it/)
 - **Email:** [andrea_deluca@polito.it]
