@@ -15,44 +15,19 @@ My goal is to study user interaction to promote more conscious, ethical, and use
 
 ## 💼 Projects
 
-<table border="0">
-  <tr>
-    <td width="33%"><img src="img/tiktok_thumb.png" width="100%" style="border-radius:12px; display:block;"></td>
-    <td width="33%"><img src="img/fitlocker_thumb.png" width="100%" style="border-radius:12px; display:block;"></td>
-    <td width="33%"><img src="img/musa_thumb.png" width="100%" style="border-radius:12px; display:block;"></td>
-  </tr>
-  
-  <tr valign="middle">
-    <td>
-      <h3><img src="img/tiktok_icon.png" width="22" align="absmiddle"> TikTok Research Panel</h3>
-      <b><ins>Chrome Extension</ins></b> for experimental HCI research. Study on how digital design patterns impact user agency through UI modification.
-      <br><br>
-    </td>
-    <td>
-      <h3>📦 FitLocker</h3>
-      <b><ins>Android Application</ins></b> in Kotlin featuring a custom locker system. End-to-end flow designed for seamless delivery management.
-      <br><br>
-    </td>
-    <td>
-      <h3>🎨 MUSA</h3>
-      <b><ins>Android Application</ins></b> in Kotlin designed through a full UX cycle to help artists overcome creative blocks via tailored exercises.
-      <br><br>
-    </td>
-  </tr>
-  
-  <tr valign="middle">
-    <td style="border-top: 1px solid #444; padding-top: 12px;">
-      <a href="https://git.elite.polito.it/public-projects/tiktok_agency"><b>Code Repo 💻</b></a> &nbsp;|&nbsp; 
-      <a href="https://webthesis.biblio.polito.it/id/eprint/37761"><b>Thesis PDF 📄</b></a>
-    </td>
-    <td style="border-top: 1px solid #444; padding-top: 12px;">
-      <a href="https://github.com/andredelu98/FitLocker"><b>Code Repo 💻</b></a>
-    </td>
-    <td style="border-top: 1px solid #444; padding-top: 12px;">
-      <a href="https://github.com/polito-uxd-2023/Musa"><b>Code Repo 💻</b></a>
-    </td>
-  </tr>
-</table>
+<br>
+
+<div align="center">
+  <a href="https://git.elite.polito.it/public-projects/tiktok_agency">
+    <img src="img/card_tiktok.png" width="31%" style="min-width: 300px; margin: 1%;" alt="TikTok Research Panel">
+  </a>
+  <a href="https://github.com/andredelu98/FitLocker">
+    <img src="img/card_fitlocker.png" width="31%" style="min-width: 300px; margin: 1%;" alt="FitLocker Android App">
+  </a>
+  <a href="https://github.com/polito-uxd-2023/Musa">
+    <img src="img/card_musa.png" width="31%" style="min-width: 300px; margin: 1%;" alt="MUSA Android App">
+  </a>
+</div>
 
 ---
 
