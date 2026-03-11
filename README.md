@@ -37,11 +37,11 @@ My goal is to study user interaction to promote more conscious, ethical, and use
   ### 🎮 Game Development
   *Unity projects where I primarily contributed as a 3D Artist, Art Director, and Project Manager, with additional support in C# programming.*
 
-  - **[Virtual Epidemic](https://github.com/ProgettoGameDesign/Virtual-Epidemic)** | [Pitch Deck 📄](LINK_TO_YOUR_PDF)
+  - **[Virtual Epidemic](https://github.com/ProgettoGameDesign/Virtual-Epidemic)** | [Pitch Deck](./files/Pitch_Virtual_Epidemic.pdf)📄
     A 3D puzzle game with a top-down view about saving a university from a virtual epidemic[cite: 4].
-  - **[Elemhands](https://c-est-la-v.itch.io/elemhands)** | [Itch.io 🕹️](https://c-est-la-v.itch.io/elemhands)
+  - **[Elemhands](https://c-est-la-v.itch.io/elemhands)** | [Itch.io](https://c-est-la-v.itch.io/elemhands)🕹️
     A VR puzzle game for Meta Quest 2 and 3 where players master elemental powers.
-  - **[RipHit](https://andredelu98.itch.io/riphit)** | [Itch.io 🕹️](https://andredelu98.itch.io/riphit)
+  - **[RipHit](https://andredelu98.itch.io/riphit)** | [Itch.io](https://andredelu98.itch.io/riphit)🕹️
     A fighting game and visual novel about facing off against the Grim Reaper.
 </details>
 
