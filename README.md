@@ -13,6 +13,12 @@ My goal is to study user interaction to promote more conscious, ethical, and use
 
 ---
 
+## 📚 Recent Publications
+
+* **Monge Roffarello, A.; De Luca, A. (2026).** [Am I in Control? How the Design of the TikTok Feed Shapes Users’ Sense of Agency](https://doi.org/10.1145/3772363.3798790). In: *CHI EA '26: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems*.
+
+---
+
 ## 💼 Projects
 
 <br>
