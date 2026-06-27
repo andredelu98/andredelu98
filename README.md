@@ -7,15 +7,16 @@ My goal is to study user interaction to promote more conscious, ethical, and use
 ---
 
 ## 🔬 Research Interests
-- **Human-Computer Interaction (HCI) & UX Research**
-- **Digital Wellbeing & Attention Economy**
-- **Deceptive Designs**
+
+- **Human-Computer Interaction (HCI) & User-Centered Design**
+- **Digital Wellbeing & Behavioral Effects of Social Media Design**
+- **Deceptive Designs & Attention-Capture Damaging Patterns**
 
 ---
 
 ## 📚 Recent Publications
 
-* **Monge Roffarello, A.; De Luca, A. (2026).** [Am I in Control? How the Design of the TikTok Feed Shapes Users’ Sense of Agency](https://doi.org/10.1145/3772363.3798790). In: *CHI EA '26: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems*.
+- **Monge Roffarello, A.; De Luca, A. (2026).** [Am I in Control? How the Design of the TikTok Feed Shapes Users’ Sense of Agency](https://doi.org/10.1145/3772363.3798790). In: _CHI EA '26: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems_.
 
 ---
 
@@ -40,19 +41,21 @@ My goal is to study user interaction to promote more conscious, ethical, and use
 <details>
   <summary><h2>📂 Other Projects</h2></summary>
 
-  ### 🎮 Game Development
-  *Unity projects where I primarily contributed as a 3D Artist, Art Director, and Project Manager, with additional support in C# programming.*
+### 🎮 Game Development
 
-  - **[Virtual Epidemic](https://github.com/ProgettoGameDesign/Virtual-Epidemic)** | [Pitch Deck](./files/Pitch_Virtual_Epidemic.pdf)📄
-    A 3D puzzle game with a top-down view about saving a university from a virtual epidemic[cite: 4].
-  - **[Elemhands](https://c-est-la-v.itch.io/elemhands)** | [Itch.io](https://c-est-la-v.itch.io/elemhands)🕹️
-    A VR puzzle game for Meta Quest 2 and 3 where players master elemental powers.
-  - **[RipHit](https://andredelu98.itch.io/riphit)** | [Itch.io](https://andredelu98.itch.io/riphit)🕹️
-    A fighting game and visual novel about facing off against the Grim Reaper.
+_Unity projects where I primarily contributed as a 3D Artist, Art Director, and Project Manager, with additional support in C# programming._
+
+- **[Virtual Epidemic](https://github.com/ProgettoGameDesign/Virtual-Epidemic)** | [Pitch Deck](./files/Pitch_Virtual_Epidemic.pdf)📄
+  A 3D puzzle game with a top-down view about saving a university from a virtual epidemic.
+- **[Elemhands](https://c-est-la-v.itch.io/elemhands)** | [Itch.io](https://c-est-la-v.itch.io/elemhands)🕹️
+  A VR puzzle game for Meta Quest 2 and 3 where players master elemental powers.
+- **[RipHit](https://andredelu98.itch.io/riphit)** | [Itch.io](https://andredelu98.itch.io/riphit)🕹️
+A fighting game and visual novel about facing off against the Grim Reaper.
 </details>
 
 ---
 
 ## 📫 Let's Connect
+
 - [**LinkedIn**](https://www.linkedin.com/in/andredelu/)
 - **Email:** [andrea_deluca@polito.it]
